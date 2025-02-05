@@ -1,0 +1,2 @@
+1. use English for all comments and code.
+2. use HTML(anim.to_jshtml()) to display animation in jupyter notebook.
